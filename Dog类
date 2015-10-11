@@ -35,4 +35,3 @@ jack.SetWeight (20) ;
 cout <<" "<< jack.GetWeight() << " pounds weight.\n";
 return 0;
 }
-
