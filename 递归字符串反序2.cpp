@@ -16,10 +16,10 @@ while(start<end)
 }
 int main()
 {
-string str;
-cout<<"please input a string:";
-getline(cin,str);
-reverse(str);
-cout<<endl;
-return 0;
+	string str;
+	cout<<"please input a string:";
+	getline(cin,str);
+	reverse(str);
+	cout<<endl;
+	return 0;
 }
