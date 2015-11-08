@@ -1,3 +1,9 @@
+/*输入样例：
+3 9 27 4 5 -1
+
+输出样例：
+48
+*/
 #include <iostream>
 using namespace std;
 void add(int n, int *sum)
