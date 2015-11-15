@@ -1,3 +1,10 @@
+/*
+输入样例：
+  my score    #
+
+输出样例：
+my score#
+*/
 #include<iostream>
 #include<cmath>
 #include<cstring>
