@@ -1,3 +1,19 @@
+/*
+设计并测试一个名为Trapezium的梯形类，其属性为梯形的四个顶点的坐标。该梯形上边和下边均和x轴平行。
+根据类的封装性要求，在类的声明中用8个私有的整型变量表示4个点的坐标值，声明成员函数initial(int,int,int,int,int,int,int,int)初始化数据成员，函数GetPosition(int&,int&,int&,int&,int&,int&,int&,int&)读取坐标值，函数Area()计算面积。
+
+输入格式:
+梯形四个顶点的坐标，
+
+输出格式：
+梯形的面积，依次为左上(x1,y1)、右上(x2,y2)、左下(x3,y3)和右下(x4,y4)角的顶点。
+
+输入样例：
+3 2 5 2 1 -4 7 -4
+
+输出样例：
+24
+*/
 #include<iostream>
 #include<cstring>
 using namespace std;
